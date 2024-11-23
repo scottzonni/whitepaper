@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O BoiZilla é um token criado com o objetivo de ser o meme mais forte e imbatível do mercado de criptomoedas. Buscamos unir força, resistência e inovação para transformar o espaço cripto de maneira divertida e acessível a todos.
+O BoiZilla é um token criado com o objetivo de ser o meme mais forte e imbatível do mercado de criptomoedas. Buscamos unir força, resistência para transformar o espaço cripto de maneira divertida e acessível a todos.
 
 ## Rede Suí
 
@@ -10,11 +10,13 @@ Escolhemos a rede **Suí** devido à sua eficiência, escalabilidade e baixas ta
 
 ## Lançamento Justo na Move Pump
 
-O token foi lançado de maneira justa, sem pré-venda, permitindo que todos os investidores tenham a mesma oportunidade de participar do crescimento do BoiZilla.
+O token foi lançado de maneira justa na MovePump, sem pré-venda, permitindo que todos os investidores tenham a mesma oportunidade de participar do crescimento do BoiZilla.
+
+https://movepump.com/token/0x7a97bf6bb42a6d8bd48dc2fee143ec4252a7ef4ee4efaa6ef6dc4539b09acb7f::bz::BZ
 
 ## Lançamento do Site Oficial
 
-O site oficial será lançado em breve e servirá como o ponto de encontro da comunidade. Lá, você encontrará todas as informações detalhadas sobre o projeto, roadmap e muito mais.
+A Primeira Versão do site oficial será lançado em breve e servirá como o ponto de encontro da comunidade. Lá, você encontrará todas as informações sobre o projeto.
 
 ## Estratégias de Crescimento
 
@@ -24,11 +26,11 @@ Investimos na construção de uma comunidade engajada através de redes sociais,
 
 ### Parcerias Estratégicas
 
-Buscamos parcerias com projetos e influenciadores para expansão orgânica.
+Buscamos parcerias com projetos para expansão orgânica.
 
 ### Queima de Tokens
 
-Implementamos estratégias de queima para aumentar a escassez e valor do token.
+Implementaremos estratégias de queima para aumentar a escassez e valor do token.
 
 ### Marketing Orgânico
 
@@ -42,8 +44,8 @@ Nosso objetivo é transformar o BoiZilla em um dos maiores memes do universo cri
 
 ## Contato
 
-- **Telegram:** [Link para o canal]
-- **Twitter:** [@boizilla]
+- **Telegram:** [https://t.me/boizilla_sui]
+- **Website:** [http://www.boizillasui.site]
 
 ## Licença
 
