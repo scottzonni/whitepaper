@@ -1,53 +1,55 @@
-# BoiZilla - O Meme Mais Forte do Mercado
+# BoiZilla - The Strongest Meme in the Market
 
-## Introdução
+## Introduction
 
-O BoiZilla é um token criado com o objetivo de ser o meme mais forte e imbatível do mercado de criptomoedas. Buscamos unir força, resistência para transformar o espaço cripto de maneira divertida e acessível a todos.
+BoiZilla is a token created with the goal of being the strongest and most unbeatable meme in the cryptocurrency market. We aim to unite strength and resilience to transform the crypto space in a fun and accessible way for everyone.
 
-## Rede Suí
+## Sui Network
 
-Escolhemos a rede **Suí** devido à sua eficiência, escalabilidade e baixas taxas de transação. A rede garante a acessibilidade para todos os usuários, criando um ambiente ideal para a evolução do BoiZilla.
+We chose the **Sui** network due to its efficiency, scalability, and low transaction fees. The network ensures accessibility for all users, creating an ideal environment for the evolution of BoiZilla.
 
-## Lançamento Justo na Move Pump
+## Fair Launch on Move Pump
 
-O token foi lançado de maneira justa na MovePump, sem pré-venda, permitindo que todos os investidores tenham a mesma oportunidade de participar do crescimento do BoiZilla.
+The token was fairly launched on MovePump, with no presale, allowing all investors the same opportunity to participate in BoiZilla’s growth.
 
-https://movepump.com/token/0x7a97bf6bb42a6d8bd48dc2fee143ec4252a7ef4ee4efaa6ef6dc4539b09acb7f::bz::BZ
+[https://movepump.com/token/0x7a97bf6bb42a6d8bd48dc2fee143ec4252a7ef4ee4efaa6ef6dc4539b09acb7f::bz::BZ](https://movepump.com/token/0x7a97bf6bb42a6d8bd48dc2fee143ec4252a7ef4ee4efaa6ef6dc4539b09acb7f::bz::BZ)
 
-## Lançamento do Site Oficial
+**Contract Address:**  
+`0x7a97bf6bb42a6d8bd48dc2fee143ec4252a7ef4ee4efaa6ef6dc4539b09acb7f::bz::BZ`
 
-A Primeira Versão do site oficial será lançado em breve e servirá como o ponto de encontro da comunidade. Lá, você encontrará todas as informações sobre o projeto.
+## Official Website Launch
 
-## Estratégias de Crescimento
+The first version of the official website will be launched soon and will serve as the community’s meeting point. There, you will find all the information about the project.
 
-### Comunidade Forte
+## Growth Strategies
 
-Investimos na construção de uma comunidade engajada através de redes sociais, fóruns e grupos de discussão.
+### Strong Community
 
-### Parcerias Estratégicas
+We invest in building an engaged community through social media, forums, and discussion groups.
 
-Buscamos parcerias com projetos para expansão orgânica.
+### Strategic Partnerships
 
-### Queima de Tokens
+We seek partnerships with projects for organic expansion.
 
-Implementaremos estratégias de queima para aumentar a escassez e valor do token.
+### Token Burn
 
-### Marketing Orgânico
+We will implement burn strategies to increase scarcity and value of the token.
 
-Utilizamos plataformas gratuitas como Twitter, Discord e Reddit para divulgar o BoiZilla e engajar usuários de forma eficiente.
+### Organic Marketing
 
-## Nosso Objetivo
+We use free platforms like Twitter, Discord, and Reddit to promote BoiZilla and engage users effectively.
 
-Nosso objetivo é transformar o BoiZilla em um dos maiores memes do universo cripto, sempre com foco na comunidade e no crescimento coletivo.
+## Our Goal
 
-**Junte-se ao movimento e fortaleça o BoiZilla!**
+Our goal is to transform BoiZilla into one of the largest memes in the crypto universe, always focusing on the community and collective growth.
 
-## Contato
+**Join the movement and strengthen BoiZilla!**
+
+## Contact
 
 - **Telegram:** [https://t.me/boizilla_sui]
 - **Website:** [http://www.boizillasui.site]
 
-## Licença
+## License
 
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
+This project is licensed under the MIT License. See the LICENSE file for more details.
